@@ -1,0 +1,6 @@
+{
+  "name": "ExamPortal - Online Examination & Auto-Grading Portal",
+  "description": "Comprehensive B.Tech Computer Science online examination portal featuring role-based dashboards, automated objective grading with negative marking, proctoring integrity tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
